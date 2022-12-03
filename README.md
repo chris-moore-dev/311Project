@@ -1,3 +1,5 @@
+### Project completed 12/2/2022 by Evan Scales, Chris Moore, and Mario Misencik
+
 # COMPILATION
 
 ### To compile the source code, run:
